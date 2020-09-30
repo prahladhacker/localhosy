@@ -1,1 +1,2 @@
-# localhosy
+# localhost
+is lo 
